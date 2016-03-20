@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	color:white;
+	height:200px;
+	text-align:center;
+	background-color:#cc3399 ;
+	border-radius:100px;
+	width:200px;
+	margin-left:20px;
+	margin-top:-850px;
+	border:5px solid grey;
+	position:fixed;
+}
+p{
+ padding-top:35px;
+}
+body{
+	padding:0px;
+	margin:0px;
+	background-image: url("i1.jpg");
+	background-repeat:no-repeat;
+}
+h1{
+	font-size:23px;
+	font-family:Viner Hand ITC;
+	font-color:grey;
+}
+.lo {
+	height: 230px;
+	width:400px;
+	margin-top:-600px;
+	margin-left:500px;
+	background-image:url("i2.jpg");
+	background-repeat:no-repeat;
+	background-size: 400px 230px;
+	position:fixed;
+	opacity:0.8;
+	border-radius:5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	/*Add your CSS here!*/	
+}
+input{
+	width:350px;
+	margin-left:25px;
+	margin-top:10px;
+	height:20px;
+}
+button{
+	margin-top:25px;
+	//margin-left:50px;
+	margin-right:50px;
+	border:0px;
+	height:30px;
+	width:60px;
+	background:#ffcc00;
+	color:grey;
+	font-weight:bold;
+	border-radius:5px;
+}
+#lo{
+	margin-left:100px;
+}
+h2{
+	color:#ffcc00;
+}
+.c1{
+	background:none;
+	height:500px;
+	width:500px;
+	border-radius:100%;
+	border:15px solid orange;
+	opacity:0.8;
+}
+.c2{
+	background:none;
+	height:50px;
+	//margin-top:50px;
+	height:300px;
+	width:300px;
+	border-radius:100%;
+	border:25px solid orange;
+	opacity:0.8;
+}
